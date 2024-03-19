@@ -1,7 +1,23 @@
- [{
+const projects = [
+  {
     title: "Pixer-project",
     githubLink: "https://github.com/Tursunboev/Pixer-project.git",
-    vercelLink: "https://pixer-project-xzow.vercel.app/",
+    vercelLink: "https://pixer-project-61qi.vercel.app/",
+  },
+  {
+    title: "Test-project",
+    githubLink: "https://github.com/Tursunboev/test-project.git",
+    vercelLink: "https://vercel.com/akmalxons-projects-228de545/test-project",
+  },
+  {
+    title: "Figma-1",
+    githubLink: "https://github.com/Tursunboev/1-figma.git",
+    vercelLink: "https://1-figma-g8cl.vercel.app/",
+  },
+  {
+    title: "Figma-2" ,
+    githubLink: "https://github.com/Tursunboev/2-figma-.git",
+    vercelLink: "https://1-figma-jmuv.vercel.app/" ,
   },
 ];
 
