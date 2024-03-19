@@ -2,22 +2,22 @@ const projects = [
   {
     title: "Pixer-project",
     githubLink: "https://github.com/Tursunboev/Pixer-project.git",
-    vercelLink: "https://pixer-project-61qi.vercel.app/",
+    vercelLink: "https://pixer-project-sigma.vercel.app/",
   },
   {
     title: "Test-project",
     githubLink: "https://github.com/Tursunboev/test-project.git",
-    vercelLink: "https://vercel.com/akmalxons-projects-228de545/test-project",
+    vercelLink: "https://test-project-lake-one.vercel.app/",
   },
   {
     title: "Figma-1",
     githubLink: "https://github.com/Tursunboev/1-figma.git",
-    vercelLink: "https://1-figma-g8cl.vercel.app/",
+    vercelLink: "https://1-figma.vercel.app/",
   },
   {
     title: "Figma-2" ,
     githubLink: "https://github.com/Tursunboev/2-figma-.git",
-    vercelLink: "https://1-figma-jmuv.vercel.app/" ,
+    vercelLink: "https://2-figma-five.vercel.app/" ,
   },
 ];
 
